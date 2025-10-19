@@ -13,7 +13,12 @@ Welcome to my **Data Exploration Portfolio** — a collection of projects and ex
 | `exercises/` | A set of visualization and analysis exercises (histograms, heatmaps, pairplots, FacetGrid, and more) used for learning and experimentation. |
 
 ---
+## Titanic Exploration (HTML)
+View the full interactive report (exported HTML):
 
+[Open Titanic Exploration report](titanic_eda/titanic_dataset_exploration.html)
+
+---
 ## 🧰 Tools and Libraries Used
 
 - **Python 3**
