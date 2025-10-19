@@ -17,6 +17,7 @@ Welcome to my **Data Exploration Portfolio** — a collection of projects and ex
 View the full interactive report (exported HTML):
 
 [Open Titanic Exploration report](titanic_eda/titanic_dataset_exploration.html)
+https://remuz-br.github.io/DataPortfolio/titanic_eda/titanic_dataset_exploration.html
 
 ---
 ## 🧰 Tools and Libraries Used
