@@ -1,7 +1,7 @@
 # 🧠 DataPortfolio
 
 Welcome to my **Data Exploration Portfolio** — a collection of projects and exercises showcasing my journey in learning **data analysis**, **visualization**, and **statistical reasoning** using **Python**, **Pandas**, and **Seaborn**. (https://remuz-br.github.io/DataPortfolio/)
-(https://github.com/remuz-br/DataPortfolio)
+https://github.com/remuz-br/DataPortfolio
 
 ---
 
